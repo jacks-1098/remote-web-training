@@ -1,0 +1,4 @@
+## List of Features available to add
+* text to speech
+* hover information
+* substract equal amount

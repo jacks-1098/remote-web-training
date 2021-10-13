@@ -7,3 +7,6 @@ Conflict change
 ## Conflict Merge Change
 This is change for to occure conflict
 In Local Update for conflict merge Resolved
+
+## Getting Started With
+* This is demo information only.
